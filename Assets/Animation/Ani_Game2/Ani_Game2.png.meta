@@ -1,0 +1,711 @@
+fileFormatVersion: 2
+guid: 86aba770669ac8241a0882c0d134d78e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6230646087585446370
+    second: Ani_Game2_0
+  - first:
+      213: 6946535072873887037
+    second: Ani_Game2_1
+  - first:
+      213: 2572062941059867474
+    second: Ani_Game2_2
+  - first:
+      213: 6390559141036126346
+    second: Ani_Game2_3
+  - first:
+      213: 2913079298595849259
+    second: Ani_Game2_4
+  - first:
+      213: -2121728643857348751
+    second: Ani_Game2_5
+  - first:
+      213: 1829392896330449718
+    second: Ani_Game2_6
+  - first:
+      213: 6733029589174029943
+    second: Ani_Game2_7
+  - first:
+      213: 7860928188989611428
+    second: Ani_Game2_8
+  - first:
+      213: 7220128268581497800
+    second: Ani_Game2_9
+  - first:
+      213: -7099788904015550739
+    second: Ani_Game2_10
+  - first:
+      213: 745066797458445698
+    second: Ani_Game2_11
+  - first:
+      213: -5999907237204269999
+    second: Ani_Game2_12
+  - first:
+      213: -4170382552354879639
+    second: Ani_Game2_13
+  - first:
+      213: 6947170474151080324
+    second: Ani_Game2_14
+  - first:
+      213: -593185247531009876
+    second: Ani_Game2_15
+  - first:
+      213: -8989694053767445127
+    second: Ani_Game2_16
+  - first:
+      213: 7611068927402127616
+    second: Ani_Game2_17
+  - first:
+      213: 1278627291527168251
+    second: Ani_Game2_18
+  - first:
+      213: 2566113785170293685
+    second: Ani_Game2_19
+  - first:
+      213: 3930776350379106169
+    second: Ani_Game2_20
+  - first:
+      213: -1382356621000562716
+    second: Ani_Game2_21
+  - first:
+      213: 8256656573786111877
+    second: Ani_Game2_22
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ani_Game2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16ca4c056c4889a0800000000000000
+      internalID: -6230646087585446370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_Game2_1
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 750
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35b07e28dc076060800000000000000
+      internalID: 6946535072873887037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_Game2_2
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 750
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253e1d51e9dc1b320800000000000000
+      internalID: 2572062941059867474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_Game2_3
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 750
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80759d1ea3dfa850800000000000000
+      internalID: 6390559141036126346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_Game2_4
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 750
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24895b10365d6820800000000000000
+      internalID: 2913079298595849259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_Game2_5
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 750
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1778c113a0b1e82e0800000000000000
+      internalID: -2121728643857348751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_Game2_6
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 750
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633466c852f436910800000000000000
+      internalID: 1829392896330449718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_Game2_7
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 750
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e89ecfcb6807d50800000000000000
+      internalID: 6733029589174029943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_Game2_8
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 750
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad9495f980a71d60800000000000000
+      internalID: 7860928188989611428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_Game2_9
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 750
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb6e89086c033460800000000000000
+      internalID: 7220128268581497800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_Game2_10
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 750
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6a4ebab9b787d90800000000000000
+      internalID: -7099788904015550739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_Game2_11
+      rect:
+        serializedVersion: 2
+        x: 8250
+        y: 750
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285d2740e42075a00800000000000000
+      internalID: 745066797458445698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_Game2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154e429182c0cbca0800000000000000
+      internalID: -5999907237204269999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_Game2_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967866d0a23df16c0800000000000000
+      internalID: -4170382552354879639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_Game2_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4817bd11dbe496060800000000000000
+      internalID: 6947170474151080324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_Game2_15
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 0
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca879e2092594c7f0800000000000000
+      internalID: -593185247531009876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_Game2_16
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97500c533e03e3380800000000000000
+      internalID: -8989694053767445127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_Game2_17
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 0
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00131d24dd2ff9960800000000000000
+      internalID: 7611068927402127616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_Game2_18
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 0
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0c8974fb89eb110800000000000000
+      internalID: 1278627291527168251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_Game2_19
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 0
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3fe4a44eaac9320800000000000000
+      internalID: 2566113785170293685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_Game2_20
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f5ad7b34cec8630800000000000000
+      internalID: 3930776350379106169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_Game2_21
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 0
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e72a5c2af1e0dce0800000000000000
+      internalID: -1382356621000562716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_Game2_22
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 0
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f3ae08869859270800000000000000
+      internalID: 8256656573786111877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ani_Game2_0: -6230646087585446370
+      Ani_Game2_1: 6946535072873887037
+      Ani_Game2_10: -7099788904015550739
+      Ani_Game2_11: 745066797458445698
+      Ani_Game2_12: -5999907237204269999
+      Ani_Game2_13: -4170382552354879639
+      Ani_Game2_14: 6947170474151080324
+      Ani_Game2_15: -593185247531009876
+      Ani_Game2_16: -8989694053767445127
+      Ani_Game2_17: 7611068927402127616
+      Ani_Game2_18: 1278627291527168251
+      Ani_Game2_19: 2566113785170293685
+      Ani_Game2_2: 2572062941059867474
+      Ani_Game2_20: 3930776350379106169
+      Ani_Game2_21: -1382356621000562716
+      Ani_Game2_22: 8256656573786111877
+      Ani_Game2_3: 6390559141036126346
+      Ani_Game2_4: 2913079298595849259
+      Ani_Game2_5: -2121728643857348751
+      Ani_Game2_6: 1829392896330449718
+      Ani_Game2_7: 6733029589174029943
+      Ani_Game2_8: 7860928188989611428
+      Ani_Game2_9: 7220128268581497800
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

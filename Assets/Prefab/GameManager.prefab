@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &61010879252547769
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 61010879252547771}
+  - component: {fileID: 61010879252547770}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &61010879252547771
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 61010879252547769}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &61010879252547770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 61010879252547769}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a799c4eeca78fb945ba5a131b988a437, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentSkin: 
+  skinId: 0
+  scoreShop: 0
+  skinBalls:
+  - skinId: 0
+    skinName: defaultSkin
+    colorCyan: {fileID: 2202221171772938076, guid: bbb27ad737c09a842bbee1557298ecd2, type: 3}
+    colorYellow: {fileID: -7664500224359551564, guid: bbb27ad737c09a842bbee1557298ecd2, type: 3}
+    colorMagenta: {fileID: 2202221171772938076, guid: bbb27ad737c09a842bbee1557298ecd2, type: 3}
+    colorPink: {fileID: -1346241648450700197, guid: bbb27ad737c09a842bbee1557298ecd2, type: 3}
+  - skinId: 1
+    skinName: iconSkin
+    colorCyan: {fileID: 3258919803178386181, guid: 1ffb99ab25373bb438207b0dab5ab9cc, type: 3}
+    colorYellow: {fileID: -8872316341771677917, guid: 1ffb99ab25373bb438207b0dab5ab9cc, type: 3}
+    colorMagenta: {fileID: 3954948952723998307, guid: 1ffb99ab25373bb438207b0dab5ab9cc, type: 3}
+    colorPink: {fileID: 6924150625955632184, guid: 1ffb99ab25373bb438207b0dab5ab9cc, type: 3}
+  - skinId: 2
+    skinName: sportBallsSkin
+    colorCyan: {fileID: 2802214494857270704, guid: 35210d727fb8cde4f864305f1e93d9ce, type: 3}
+    colorYellow: {fileID: -5384356893616456583, guid: 35210d727fb8cde4f864305f1e93d9ce, type: 3}
+    colorMagenta: {fileID: -6037834680268983002, guid: 35210d727fb8cde4f864305f1e93d9ce, type: 3}
+    colorPink: {fileID: 5622847405481633503, guid: 35210d727fb8cde4f864305f1e93d9ce, type: 3}
+  - skinId: 3
+    skinName: birdsSkin
+    colorCyan: {fileID: -2104153104118595526, guid: e9fff27e6c38bd34eb91321751d580ba, type: 3}
+    colorYellow: {fileID: -4146645833032905359, guid: e9fff27e6c38bd34eb91321751d580ba, type: 3}
+    colorMagenta: {fileID: 419087172439435372, guid: e9fff27e6c38bd34eb91321751d580ba, type: 3}
+    colorPink: {fileID: -1513983678121349061, guid: e9fff27e6c38bd34eb91321751d580ba, type: 3}
+  - skinId: 4
+    skinName: FlowersSkin
+    colorCyan: {fileID: 8763605396584105341, guid: 01377497966278847984e48baeeb52b8, type: 3}
+    colorYellow: {fileID: 4728882183950168519, guid: 01377497966278847984e48baeeb52b8, type: 3}
+    colorMagenta: {fileID: 7004170935063403490, guid: 01377497966278847984e48baeeb52b8, type: 3}
+    colorPink: {fileID: -1868918080674521672, guid: 01377497966278847984e48baeeb52b8, type: 3}
