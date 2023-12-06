@@ -24,12 +24,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 61010879252547769}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &61010879252547770
 MonoBehaviour:
@@ -49,7 +50,7 @@ MonoBehaviour:
   skinBalls:
   - skinId: 0
     skinName: defaultSkin
-    colorCyan: {fileID: 2202221171772938076, guid: bbb27ad737c09a842bbee1557298ecd2, type: 3}
+    colorCyan: {fileID: -2424044867252057153, guid: bbb27ad737c09a842bbee1557298ecd2, type: 3}
     colorYellow: {fileID: -7664500224359551564, guid: bbb27ad737c09a842bbee1557298ecd2, type: 3}
     colorMagenta: {fileID: 2202221171772938076, guid: bbb27ad737c09a842bbee1557298ecd2, type: 3}
     colorPink: {fileID: -1346241648450700197, guid: bbb27ad737c09a842bbee1557298ecd2, type: 3}
